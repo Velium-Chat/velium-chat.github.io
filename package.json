@@ -1,0 +1,9 @@
+{
+  "name": "velium-chat-github-io",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build", "preview": "vite preview" },
+  "dependencies": { "@material/material-color-utilities": "^0.3.0", "@material/web": "^2.3.0" },
+  "devDependencies": { "typescript": "^5.7.3", "vite": "^6.0.7" }
+}
